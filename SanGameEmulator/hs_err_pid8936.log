@@ -1,0 +1,116 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  Internal Error (virtualspace.cpp:114), pid=8936, tid=9216
+#  fatal error: os::release_memory failed
+#
+# JRE version:  (7.0_55-b13) (build )
+# Java VM: Java HotSpot(TM) Client VM (24.55-b03 mixed mode windows-x86 )
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.sun.com/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x003d9400):  JavaThread "Unknown thread" [_thread_in_vm, id=9216, stack(0x009c0000,0x00a10000)]
+
+Stack: [0x009c0000,0x00a10000],  sp=0x00a0f90c,  free space=318k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x18e051]
+V  [jvm.dll+0x187dd6]
+V  [jvm.dll+0x16416c]
+V  [jvm.dll+0x16461b]
+V  [jvm.dll+0x89a66]
+V  [jvm.dll+0x87546]
+V  [jvm.dll+0x86262]
+V  [jvm.dll+0x90603]
+V  [jvm.dll+0x13db04]
+V  [jvm.dll+0x1606ac]
+V  [jvm.dll+0xc8e1f]
+C  [javaw.exe+0x13ce]
+C  [javaw.exe+0x1e40]
+C  [javaw.exe+0xa5b1]
+C  [javaw.exe+0xa63b]
+C  [kernel32.dll+0xb729]
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x003d9400 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=9216, stack(0x009c0000,0x00a10000)]
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+Events (0 events):
+No events
+
+
+Dynamic libraries:
+0x00400000 - 0x0042f000 	C:\Program Files\Java\jre7\bin\javaw.exe
+0x7c900000 - 0x7c9b2000 	C:\WINDOWS\system32\ntdll.dll
+0x7c800000 - 0x7c8f6000 	C:\WINDOWS\system32\kernel32.dll
+0x77dd0000 - 0x77e6b000 	C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000 - 0x77f03000 	C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000 - 0x77ff1000 	C:\WINDOWS\system32\Secur32.dll
+0x7e410000 - 0x7e4a1000 	C:\WINDOWS\system32\USER32.dll
+0x77f10000 - 0x77f59000 	C:\WINDOWS\system32\GDI32.dll
+0x773d0000 - 0x774d3000 	C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.6028_x-ww_61e65202\COMCTL32.dll
+0x77c10000 - 0x77c68000 	C:\WINDOWS\system32\msvcrt.dll
+0x77f60000 - 0x77fd6000 	C:\WINDOWS\system32\SHLWAPI.dll
+0x76390000 - 0x763ad000 	C:\WINDOWS\system32\IMM32.DLL
+0x629c0000 - 0x629c9000 	C:\WINDOWS\system32\LPK.DLL
+0x74d90000 - 0x74dfb000 	C:\WINDOWS\system32\USP10.dll
+0x78aa0000 - 0x78b5f000 	C:\Program Files\Java\jre7\bin\msvcr100.dll
+0x6e770000 - 0x6eaf0000 	C:\Program Files\Java\jre7\bin\client\jvm.dll
+0x71ad0000 - 0x71ad9000 	C:\WINDOWS\system32\WSOCK32.dll
+0x71ab0000 - 0x71ac7000 	C:\WINDOWS\system32\WS2_32.dll
+0x71aa0000 - 0x71aa8000 	C:\WINDOWS\system32\WS2HELP.dll
+0x76b40000 - 0x76b6d000 	C:\WINDOWS\system32\WINMM.dll
+0x76bf0000 - 0x76bfb000 	C:\WINDOWS\system32\PSAPI.DLL
+0x6e6c0000 - 0x6e6cc000 	C:\Program Files\Java\jre7\bin\verify.dll
+0x6d480000 - 0x6d4a0000 	C:\Program Files\Java\jre7\bin\java.dll
+0x6e750000 - 0x6e763000 	C:\Program Files\Java\jre7\bin\zip.dll
+0x59a60000 - 0x59b01000 	C:\WINDOWS\system32\dbghelp.dll
+0x77c00000 - 0x77c08000 	C:\WINDOWS\system32\VERSION.dll
+
+VM Arguments:
+java_command: C:\KEmulatochuyenCHIP\SanGameEmulator\2.jar
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+USERNAME=KHUYEN
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=x86 Family 6 Model 60 Stepping 3, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows XP Build 2600 Service Pack 3
+
+CPU:total 1 (1 cores per cpu, 1 threads per core) family 6 model 60 stepping 3, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, tsc
+
+Memory: 4k page, physical 523760k(150264k free), swap 1280212k(853612k free)
+
+vm_info: Java HotSpot(TM) Client VM (24.55-b03) for windows-x86 JRE (1.7.0_55-b13), built on Mar 17 2014 20:01:11 by "java_re" with unknown MS VC++:1600
+
+time: Sun Jan 11 08:49:13 2015
+elapsed time: 0 seconds
+

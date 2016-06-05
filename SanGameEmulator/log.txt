@@ -1,0 +1,468 @@
+SanGame.NET Emulator Running...
+Get classes from C:\KEmulatochuyenCHIP\ibet88touch.jar
+Get class ff
+Get class aj
+Get class io
+Get class ds
+Get class g
+Get class ef
+Get class y
+Get class gj
+Get class ca
+Get class ho
+Get class cs
+Get class df
+Get class fj
+Get class ba
+Get class bs
+Get class ej
+Get class ha
+Get class aa
+Get class hs
+Get class as
+Get class cw
+Get class dj
+Get class p
+Get class ga
+Get class gs
+Get class bw
+Get class cj
+Get class en
+Get class fa
+Get class ae
+Get class fs
+Get class hw
+Get class aw
+Get class ij
+Get class bj
+Get class dn
+Get class b
+Get class ea
+Get class t
+Get class gw
+Get class hj
+Get class cn
+Get class da
+Get class fe
+Get class fw
+Get class in
+Get class bn
+Get class ee
+Get class x
+Get class ew
+Get class hn
+Get class an
+Get class cr
+Get class ia
+Get class de
+Get class dw
+Get class k
+Get class gn
+Get class br
+Get class ce
+Get class ei
+Get class fn
+Get class hr
+Get class ar
+Get class ie
+Get class be
+Get class di
+Get class o
+Get class gr
+Get class he
+Get class ci
+Get class fr
+Get class av
+Get class ge
+Get class ii
+Get class bi
+Get class s
+Get class er
+Get class gv
+Get class hi
+Get class ai
+Get class cm
+Get class dr
+Get class f
+Get class fv
+Get class gi
+Get class bm
+Get class ev
+Get class fi
+Get class hm
+Get class am
+Get class dd
+Get class dv
+Get class j
+Get class app.iBet_88
+Get class gm
+Get class cd
+Get class cv
+Get class ez
+Get class fm
+Get class aq
+Get class id
+Get class bd
+Get class bv
+Get class dz
+Get class n
+Get class em
+Get class hd
+Get class ad
+Get class hv
+Get class cz
+Get class dm
+Get class a
+Get class fq
+Get class gd
+Get class bh
+Get class bz
+Get class eq
+Get class fd
+Get class hh
+Get class ah
+Get class hz
+Get class az
+Get class app.b
+Get class im
+Get class dq
+Get class e
+Get class ed
+Get class w
+Get class gh
+Get class gz
+Get class cq
+Get class fh
+Get class al
+Get class fz
+Get class iq
+Get class bq
+Get class du
+Get class i
+Get class eh
+Get class hq
+Get class cu
+Get class dh
+Get class fl
+Get class bc
+Get class gq
+Get class bu
+Get class ch
+Get class el
+Get class ac
+Get class hu
+Get class au
+Get class cy
+Get class ih
+Get class dl
+Get class r
+Get class gc
+Get class gu
+Get class by
+Get class cl
+Get class fc
+Get class fu
+Get class hy
+Get class ay
+Get class app.a
+Get class il
+Get class bl
+Get class dp
+Get class ec
+Get class v
+Get class eu
+Get class gy
+Get class hl
+Get class cp
+Get class dc
+Get class fg
+Get class fy
+Get class gl
+Get class ip
+Get class bp
+Get class cc
+Get class eg
+Get class z
+Get class ey
+Get class hp
+Get class ap
+Get class ic
+Get class dg
+Get class dy
+Get class m
+Get class gp
+Get class bt
+Get class hc
+Get class cg
+Get class fp
+Get class at
+Get class ig
+Get class bg
+Get class dk
+Get class q
+Get class ep
+Get class gt
+Get class hg
+Get class ag
+Get class ck
+Get class d
+Get class ft
+Get class gg
+Get class ik
+Get class bk
+Get class eb
+Get class u
+Get class et
+Get class hk
+Get class ak
+Get class db
+Get class dt
+Get class h
+Get class fx
+Get class gk
+Get class bo
+Get class cb
+Get class ct
+Get class ex
+Get class fk
+Get class ao
+Get class ib
+Get class bb
+Get class dx
+Get class l
+Get class ek
+Get class go
+Get class hb
+Get class ab
+Get class cf
+Get class ht
+Get class cx
+Get class fo
+Get class gb
+Get class if
+Get class bf
+Get class bx
+Get class eo
+Get class fb
+Get class hf
+Get class af
+Get class hx
+Get class ax
+Get class do
+Get class c
+Get class gf
+Get class gx
+Get class co
+Get class es
+Custom.jar.getResourceStream: /icon/p3/p3-Icon_48.png (2925)
+Launch MIDlet class: app.iBet_88
+System.getProperty#com.nokia.mid.imei=null
+System.getProperty#imei=null
+System.getProperty#IMEI=null
+System.getProperty#com.imei=null
+System.getProperty#com.samsung.imei=null
+System.getProperty#com.samsung.IMEI=null
+System.getProperty#com.sonyericsson.imei=null
+System.getProperty#com.lge.imei=null
+System.getProperty#com.3g.net.phone.imei=null
+System.getProperty#com.siemens.imei=null
+System.getProperty#com.siemens.IMEI=null
+System.getProperty#com.motorola.IMEI=null
+Custom.jar.getResourceStream: label.dat (699)
+Custom.jar.getResourceStream: /avatar/defaultavatar.png (624)
+Custom.jar.getResourceStream: /disp/bartop.png (216)
+Custom.jar.getResourceStream: /disp/barbottom.png (216)
+Custom.jar.getResourceStream: /disp/loading.png (1979)
+Custom.jar.getResourceStream: /disp/p3/arrow.png (170)
+Custom.jar.getResourceStream: /disp/checked.png (187)
+Custom.jar.getResourceStream: /disp/fb_18.png (451)
+Custom.jar.getResourceStream: /disp/hot.png (272)
+Custom.jar.getResourceStream: disp/sbfont14g.cal (7381)
+Custom.jar.getResourceStream: disp/sbfont12g.cal (3207)
+openRecordStore theme
+getRecord theme_1
+System.getProperty#microedition.platform=SonyEricssonK800
+System.getProperty#os.name=Windows XP
+System.getProperty#os.version=5.1
+System.getProperty#microedition.profiles=MIDP2.0
+getRecord theme_2
+getRecord theme_3
+getRecord theme_4
+openRecordStore setting
+getRecord setting_1
+getRecord setting_2
+getRecord setting_3
+getRecord setting_4
+getRecord setting_5
+getRecord setting_6
+getRecord setting_7
+openRecordStore static.uri
+openRecordStore static.stream
+enumerateRecords static.uri
+getRecord static.uri_1
+getRecord static.stream_1
+getRecord static.uri_2
+getRecord static.stream_2
+getRecord static.uri_3
+getRecord static.stream_3
+getRecord static.uri_4
+getRecord static.stream_4
+getRecord static.uri_5
+getRecord static.stream_5
+getRecord static.uri_6
+getRecord static.stream_6
+getRecord static.uri_7
+getRecord static.stream_7
+getRecord static.uri_8
+getRecord static.stream_8
+getRecord static.uri_9
+getRecord static.stream_9
+getRecord static.uri_10
+getRecord static.stream_10
+getRecord static.uri_11
+getRecord static.stream_11
+getRecord static.uri_12
+getRecord static.stream_12
+getRecord static.uri_13
+getRecord static.stream_13
+getRecord static.uri_14
+getRecord static.stream_14
+getRecord static.uri_15
+getRecord static.stream_15
+getRecord static.uri_16
+getRecord static.uri_17
+getRecord static.uri_18
+getRecord static.uri_19
+getRecord static.uri_20
+getRecord static.uri_21
+getRecord static.uri_22
+getRecord static.uri_23
+getRecord static.uri_23
+getRecord static.uri_24
+getRecord static.uri_25
+getRecord static.uri_26
+getRecord static.uri_27
+getRecord static.uri_28
+getRecord static.uri_29
+getRecord static.uri_30
+getRecord static.uri_31
+getRecord static.uri_32
+getRecord static.uri_33
+getRecord static.uri_34
+getRecord static.uri_35
+getRecord static.uri_36
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_37
+getRecord static.uri_38
+getRecord static.uri_39
+getRecord static.uri_40
+getRecord static.uri_40
+getRecord static.uri_40
+getRecord static.uri_40
+getRecord theme_5
+getRecord theme_6
+getRecord theme_7
+getRecord theme_8
+SocketConnection: socket://54.179.182.129:4668
+host:54.179.182.129
+port:4668
+                                                                                                                                                                                                                                                getRecord static.stream_18
+getRecord static.stream_24
+getRecord static.stream_25
+getRecord static.stream_23
+getRecord static.stream_17
+getRecord static.stream_18
+getRecord static.stream_17
+getRecord static.stream_18
+getRecord static.stream_23
+getRecord static.stream_17
+getRecord static.stream_18
+getRecord static.stream_17
+getRecord static.stream_23
+getRecord static.stream_17
+getRecord static.stream_18
+getRecord static.stream_17
+getRecord static.stream_23
